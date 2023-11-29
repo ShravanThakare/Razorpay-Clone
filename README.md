@@ -4,7 +4,7 @@ It's a website that has been designed to mimic the design of the popular Indian 
 ⭕ This Site is Fully Responsive
 
 
-📌 Live Site URL: Visit Now 🚀
+📌 Live Site URL: https://shravanthakarerazorpaycloneproject.netlify.app/ 🚀
 
 📌 Tech Stack
 
